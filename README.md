@@ -1,2 +1,1 @@
 # BlockChain-JS
-# BlockChain Skeleton
